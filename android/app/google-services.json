@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024481568161",
+    "project_id": "chorvacom",
+    "storage_bucket": "chorvacom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024481568161:android:5cc70d4ca7657ab9c357e0",
+        "android_client_info": {
+          "package_name": "com.example.chorva_yem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdDw_PncZPwlzwWgAhh780W2zrAo1xyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
